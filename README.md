@@ -4,7 +4,7 @@
       - 8x m4 40mm caphead
       - 2x m3 ~10mm caphead
       - 2x m8 35mm countersunk
-      - 2x m8 washer and nut
+      - 2x m8 washer and nylock nut
       - 8x m4 thread inserts (link provided for ones used for design) 
       - 2x m3 thread inserts (link provided for ones used for design)
    - much more space for wiring
