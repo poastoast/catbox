@@ -8,6 +8,5 @@
       - 8x m4 thread inserts (link provided for ones used for design) 
       - 2x m3 thread inserts (link provided for ones used for design)
    - much more space for wiring
-   - requires use of mt60s for phase connections (without the cap ends so they can fit into the port holes
    - doesn't require sealant to be water resistant
 
