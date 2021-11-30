@@ -23,6 +23,6 @@ CHANGES:
       - added space for Usplit
       - added seat for GPS module
       - reduced print times by ~20%
-      - 
+      - reduced overall outside volume while increasing inner volume
    - [type 5]
       - new design from catbox_1
