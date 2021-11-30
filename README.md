@@ -11,6 +11,9 @@
    - doesn't require sealant to be water resistant
       - capable of light rain/snow before additional sealing
       - NOT submergable 
+   - component location labeling mainly applies to those using a Robogotchi logger*
+
+   - step files in their own branch, full history of versions can be found there
 
 CHANGES:
    - [2.6.12]
